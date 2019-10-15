@@ -1,0 +1,11 @@
+D:\Dropbox\corsoRabbitMQ\Esercizi\C#\EmitLogDirect\bin\Debug\netcoreapp2.1\EmitLogDirect.deps.json
+D:\Dropbox\corsoRabbitMQ\Esercizi\C#\EmitLogDirect\bin\Debug\netcoreapp2.1\EmitLogDirect.runtimeconfig.json
+D:\Dropbox\corsoRabbitMQ\Esercizi\C#\EmitLogDirect\bin\Debug\netcoreapp2.1\EmitLogDirect.runtimeconfig.dev.json
+D:\Dropbox\corsoRabbitMQ\Esercizi\C#\EmitLogDirect\bin\Debug\netcoreapp2.1\EmitLogDirect.dll
+D:\Dropbox\corsoRabbitMQ\Esercizi\C#\EmitLogDirect\bin\Debug\netcoreapp2.1\EmitLogDirect.pdb
+D:\Dropbox\corsoRabbitMQ\Esercizi\C#\EmitLogDirect\obj\Debug\netcoreapp2.1\EmitLogDirect.csprojAssemblyReference.cache
+D:\Dropbox\corsoRabbitMQ\Esercizi\C#\EmitLogDirect\obj\Debug\netcoreapp2.1\EmitLogDirect.csproj.CoreCompileInputs.cache
+D:\Dropbox\corsoRabbitMQ\Esercizi\C#\EmitLogDirect\obj\Debug\netcoreapp2.1\EmitLogDirect.AssemblyInfoInputs.cache
+D:\Dropbox\corsoRabbitMQ\Esercizi\C#\EmitLogDirect\obj\Debug\netcoreapp2.1\EmitLogDirect.AssemblyInfo.cs
+D:\Dropbox\corsoRabbitMQ\Esercizi\C#\EmitLogDirect\obj\Debug\netcoreapp2.1\EmitLogDirect.dll
+D:\Dropbox\corsoRabbitMQ\Esercizi\C#\EmitLogDirect\obj\Debug\netcoreapp2.1\EmitLogDirect.pdb

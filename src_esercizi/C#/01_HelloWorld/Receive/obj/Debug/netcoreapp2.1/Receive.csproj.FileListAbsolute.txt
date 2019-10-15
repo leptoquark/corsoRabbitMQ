@@ -1,0 +1,10 @@
+C:\Users\Claudio\Receive\bin\Debug\netcoreapp2.1\Receive.deps.json
+C:\Users\Claudio\Receive\bin\Debug\netcoreapp2.1\Receive.runtimeconfig.json
+C:\Users\Claudio\Receive\bin\Debug\netcoreapp2.1\Receive.runtimeconfig.dev.json
+C:\Users\Claudio\Receive\bin\Debug\netcoreapp2.1\Receive.dll
+C:\Users\Claudio\Receive\bin\Debug\netcoreapp2.1\Receive.pdb
+C:\Users\Claudio\Receive\obj\Debug\netcoreapp2.1\Receive.csproj.CoreCompileInputs.cache
+C:\Users\Claudio\Receive\obj\Debug\netcoreapp2.1\Receive.AssemblyInfoInputs.cache
+C:\Users\Claudio\Receive\obj\Debug\netcoreapp2.1\Receive.AssemblyInfo.cs
+C:\Users\Claudio\Receive\obj\Debug\netcoreapp2.1\Receive.dll
+C:\Users\Claudio\Receive\obj\Debug\netcoreapp2.1\Receive.pdb

@@ -1,0 +1,11 @@
+D:\Dropbox\corsoRabbitMQ\Esercizi\C#\EmitLog\bin\Debug\netcoreapp2.1\EmitLog.deps.json
+D:\Dropbox\corsoRabbitMQ\Esercizi\C#\EmitLog\bin\Debug\netcoreapp2.1\EmitLog.runtimeconfig.json
+D:\Dropbox\corsoRabbitMQ\Esercizi\C#\EmitLog\bin\Debug\netcoreapp2.1\EmitLog.runtimeconfig.dev.json
+D:\Dropbox\corsoRabbitMQ\Esercizi\C#\EmitLog\bin\Debug\netcoreapp2.1\EmitLog.dll
+D:\Dropbox\corsoRabbitMQ\Esercizi\C#\EmitLog\bin\Debug\netcoreapp2.1\EmitLog.pdb
+D:\Dropbox\corsoRabbitMQ\Esercizi\C#\EmitLog\obj\Debug\netcoreapp2.1\EmitLog.csprojAssemblyReference.cache
+D:\Dropbox\corsoRabbitMQ\Esercizi\C#\EmitLog\obj\Debug\netcoreapp2.1\EmitLog.csproj.CoreCompileInputs.cache
+D:\Dropbox\corsoRabbitMQ\Esercizi\C#\EmitLog\obj\Debug\netcoreapp2.1\EmitLog.AssemblyInfoInputs.cache
+D:\Dropbox\corsoRabbitMQ\Esercizi\C#\EmitLog\obj\Debug\netcoreapp2.1\EmitLog.AssemblyInfo.cs
+D:\Dropbox\corsoRabbitMQ\Esercizi\C#\EmitLog\obj\Debug\netcoreapp2.1\EmitLog.dll
+D:\Dropbox\corsoRabbitMQ\Esercizi\C#\EmitLog\obj\Debug\netcoreapp2.1\EmitLog.pdb
