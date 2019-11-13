@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Dropbox\\corsoRabbitMQ\\repo\\src_esercizi\\C#\\03_PublishSubscribe\\EmitLog\\EmitLog.csproj": {}
+  },
+  "projects": {
+    "D:\\Dropbox\\corsoRabbitMQ\\repo\\src_esercizi\\C#\\03_PublishSubscribe\\EmitLog\\EmitLog.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dropbox\\corsoRabbitMQ\\repo\\src_esercizi\\C#\\03_PublishSubscribe\\EmitLog\\EmitLog.csproj",
+        "projectName": "EmitLog",
+        "projectPath": "D:\\Dropbox\\corsoRabbitMQ\\repo\\src_esercizi\\C#\\03_PublishSubscribe\\EmitLog\\EmitLog.csproj",
+        "packagesPath": "C:\\Users\\Claudio\\.nuget\\packages\\",
+        "outputPath": "D:\\Dropbox\\corsoRabbitMQ\\repo\\src_esercizi\\C#\\03_PublishSubscribe\\EmitLog\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Claudio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\documenti\\mise\\devExpress\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

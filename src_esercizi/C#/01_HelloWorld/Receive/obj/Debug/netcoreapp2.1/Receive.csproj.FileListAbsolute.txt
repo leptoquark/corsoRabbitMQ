@@ -8,3 +8,14 @@ C:\Users\Claudio\Receive\obj\Debug\netcoreapp2.1\Receive.AssemblyInfoInputs.cach
 C:\Users\Claudio\Receive\obj\Debug\netcoreapp2.1\Receive.AssemblyInfo.cs
 C:\Users\Claudio\Receive\obj\Debug\netcoreapp2.1\Receive.dll
 C:\Users\Claudio\Receive\obj\Debug\netcoreapp2.1\Receive.pdb
+D:\Dropbox\corsoRabbitMQ\repo\src_esercizi\C#\01_HelloWorld\Receive\bin\Debug\netcoreapp2.1\Receive.deps.json
+D:\Dropbox\corsoRabbitMQ\repo\src_esercizi\C#\01_HelloWorld\Receive\bin\Debug\netcoreapp2.1\Receive.runtimeconfig.json
+D:\Dropbox\corsoRabbitMQ\repo\src_esercizi\C#\01_HelloWorld\Receive\bin\Debug\netcoreapp2.1\Receive.runtimeconfig.dev.json
+D:\Dropbox\corsoRabbitMQ\repo\src_esercizi\C#\01_HelloWorld\Receive\bin\Debug\netcoreapp2.1\Receive.dll
+D:\Dropbox\corsoRabbitMQ\repo\src_esercizi\C#\01_HelloWorld\Receive\bin\Debug\netcoreapp2.1\Receive.pdb
+D:\Dropbox\corsoRabbitMQ\repo\src_esercizi\C#\01_HelloWorld\Receive\obj\Debug\netcoreapp2.1\Receive.csprojAssemblyReference.cache
+D:\Dropbox\corsoRabbitMQ\repo\src_esercizi\C#\01_HelloWorld\Receive\obj\Debug\netcoreapp2.1\Receive.csproj.CoreCompileInputs.cache
+D:\Dropbox\corsoRabbitMQ\repo\src_esercizi\C#\01_HelloWorld\Receive\obj\Debug\netcoreapp2.1\Receive.AssemblyInfoInputs.cache
+D:\Dropbox\corsoRabbitMQ\repo\src_esercizi\C#\01_HelloWorld\Receive\obj\Debug\netcoreapp2.1\Receive.AssemblyInfo.cs
+D:\Dropbox\corsoRabbitMQ\repo\src_esercizi\C#\01_HelloWorld\Receive\obj\Debug\netcoreapp2.1\Receive.dll
+D:\Dropbox\corsoRabbitMQ\repo\src_esercizi\C#\01_HelloWorld\Receive\obj\Debug\netcoreapp2.1\Receive.pdb

@@ -711,7 +711,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
       "Microsoft.NETCore.App >= 2.1.0",
-      "RabbitMQ.Client"
+      "RabbitMQ.Client >= 5.1.2"
     ]
   },
   "packageFolders": {
@@ -721,11 +721,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dropbox\\corsoRabbitMQ\\Esercizi\\C#\\Receive\\Receive.csproj",
+      "projectUniqueName": "D:\\Dropbox\\corsoRabbitMQ\\repo\\src_esercizi\\C#\\01_HelloWorld\\Receive\\Receive.csproj",
       "projectName": "Receive",
-      "projectPath": "D:\\Dropbox\\corsoRabbitMQ\\Esercizi\\C#\\Receive\\Receive.csproj",
+      "projectPath": "D:\\Dropbox\\corsoRabbitMQ\\repo\\src_esercizi\\C#\\01_HelloWorld\\Receive\\Receive.csproj",
       "packagesPath": "C:\\Users\\Claudio\\.nuget\\packages\\",
-      "outputPath": "D:\\Dropbox\\corsoRabbitMQ\\Esercizi\\C#\\Receive\\obj\\",
+      "outputPath": "D:\\Dropbox\\corsoRabbitMQ\\repo\\src_esercizi\\C#\\01_HelloWorld\\Receive\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -764,7 +764,7 @@
           },
           "RabbitMQ.Client": {
             "target": "Package",
-            "version": "(, )"
+            "version": "[5.1.2, )"
           }
         },
         "imports": [

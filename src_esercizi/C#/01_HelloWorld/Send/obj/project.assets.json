@@ -721,11 +721,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dropbox\\corsoRabbitMQ\\Esercizi\\C#\\Send\\Send.csproj",
+      "projectUniqueName": "D:\\Dropbox\\corsoRabbitMQ\\repo\\src_esercizi\\C#\\01_HelloWorld\\Send\\Send.csproj",
       "projectName": "Send",
-      "projectPath": "D:\\Dropbox\\corsoRabbitMQ\\Esercizi\\C#\\Send\\Send.csproj",
+      "projectPath": "D:\\Dropbox\\corsoRabbitMQ\\repo\\src_esercizi\\C#\\01_HelloWorld\\Send\\Send.csproj",
       "packagesPath": "C:\\Users\\Claudio\\.nuget\\packages\\",
-      "outputPath": "D:\\Dropbox\\corsoRabbitMQ\\Esercizi\\C#\\Send\\obj\\",
+      "outputPath": "D:\\Dropbox\\corsoRabbitMQ\\repo\\src_esercizi\\C#\\01_HelloWorld\\Send\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

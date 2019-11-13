@@ -9,3 +9,14 @@ C:\Users\Claudio\Send\obj\Debug\netcoreapp2.1\Send.AssemblyInfoInputs.cache
 C:\Users\Claudio\Send\obj\Debug\netcoreapp2.1\Send.AssemblyInfo.cs
 C:\Users\Claudio\Send\obj\Debug\netcoreapp2.1\Send.dll
 C:\Users\Claudio\Send\obj\Debug\netcoreapp2.1\Send.pdb
+D:\Dropbox\corsoRabbitMQ\repo\src_esercizi\C#\01_HelloWorld\Send\bin\Debug\netcoreapp2.1\Send.deps.json
+D:\Dropbox\corsoRabbitMQ\repo\src_esercizi\C#\01_HelloWorld\Send\bin\Debug\netcoreapp2.1\Send.runtimeconfig.json
+D:\Dropbox\corsoRabbitMQ\repo\src_esercizi\C#\01_HelloWorld\Send\bin\Debug\netcoreapp2.1\Send.runtimeconfig.dev.json
+D:\Dropbox\corsoRabbitMQ\repo\src_esercizi\C#\01_HelloWorld\Send\bin\Debug\netcoreapp2.1\Send.dll
+D:\Dropbox\corsoRabbitMQ\repo\src_esercizi\C#\01_HelloWorld\Send\bin\Debug\netcoreapp2.1\Send.pdb
+D:\Dropbox\corsoRabbitMQ\repo\src_esercizi\C#\01_HelloWorld\Send\obj\Debug\netcoreapp2.1\Send.csprojAssemblyReference.cache
+D:\Dropbox\corsoRabbitMQ\repo\src_esercizi\C#\01_HelloWorld\Send\obj\Debug\netcoreapp2.1\Send.csproj.CoreCompileInputs.cache
+D:\Dropbox\corsoRabbitMQ\repo\src_esercizi\C#\01_HelloWorld\Send\obj\Debug\netcoreapp2.1\Send.AssemblyInfoInputs.cache
+D:\Dropbox\corsoRabbitMQ\repo\src_esercizi\C#\01_HelloWorld\Send\obj\Debug\netcoreapp2.1\Send.AssemblyInfo.cs
+D:\Dropbox\corsoRabbitMQ\repo\src_esercizi\C#\01_HelloWorld\Send\obj\Debug\netcoreapp2.1\Send.dll
+D:\Dropbox\corsoRabbitMQ\repo\src_esercizi\C#\01_HelloWorld\Send\obj\Debug\netcoreapp2.1\Send.pdb

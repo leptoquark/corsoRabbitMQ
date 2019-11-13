@@ -1,24 +1,24 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.1",
-    "signature": "822627402b5b36fab57684cc2cf30ddb2019227a"
+    "signature": "e79c8f9cb9051c9ab1f077198089f77101052a57"
   },
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {
       "Receive/1.0.0": {
         "dependencies": {
-          "RabbitMQ.Client": "5.1.1"
+          "RabbitMQ.Client": "5.1.2"
         },
         "runtime": {
           "Receive.dll": {}
         }
       },
-      "RabbitMQ.Client/5.1.1": {
+      "RabbitMQ.Client/5.1.2": {
         "runtime": {
           "lib/netstandard2.0/RabbitMQ.Client.dll": {
             "assemblyVersion": "5.0.0.0",
-            "fileVersion": "5.1.1.0"
+            "fileVersion": "5.1.2.0"
           }
         }
       }
@@ -30,12 +30,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "RabbitMQ.Client/5.1.1": {
+    "RabbitMQ.Client/5.1.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-ApUZXLujbNGDceSQGv3b1FkoFeUwuWR9PTkw0Iwsd5ivzcjCMegq6zIFPXDEFjEoMgUOHuNWjNnFpmFl5HQ50Q==",
-      "path": "rabbitmq.client/5.1.1",
-      "hashPath": "rabbitmq.client.5.1.1.nupkg.sha512"
+      "sha512": "sha512-Xhj+un0pw4N7h37SZWptxl/NEv7f1RLHwZhXjqzkCm3w3IdbFJh+HjVyPaciD848BUYLGoEQzadx90nShsbs4Q==",
+      "path": "rabbitmq.client/5.1.2",
+      "hashPath": "rabbitmq.client.5.1.2.nupkg.sha512"
     }
   }
 }
