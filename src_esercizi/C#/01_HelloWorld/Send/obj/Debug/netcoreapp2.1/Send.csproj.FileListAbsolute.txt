@@ -15,7 +15,6 @@ D:\Dropbox\corsoRabbitMQ\repo\src_esercizi\C#\01_HelloWorld\Send\bin\Debug\netco
 D:\Dropbox\corsoRabbitMQ\repo\src_esercizi\C#\01_HelloWorld\Send\bin\Debug\netcoreapp2.1\Send.dll
 D:\Dropbox\corsoRabbitMQ\repo\src_esercizi\C#\01_HelloWorld\Send\bin\Debug\netcoreapp2.1\Send.pdb
 D:\Dropbox\corsoRabbitMQ\repo\src_esercizi\C#\01_HelloWorld\Send\obj\Debug\netcoreapp2.1\Send.csprojAssemblyReference.cache
-D:\Dropbox\corsoRabbitMQ\repo\src_esercizi\C#\01_HelloWorld\Send\obj\Debug\netcoreapp2.1\Send.csproj.CoreCompileInputs.cache
 D:\Dropbox\corsoRabbitMQ\repo\src_esercizi\C#\01_HelloWorld\Send\obj\Debug\netcoreapp2.1\Send.AssemblyInfoInputs.cache
 D:\Dropbox\corsoRabbitMQ\repo\src_esercizi\C#\01_HelloWorld\Send\obj\Debug\netcoreapp2.1\Send.AssemblyInfo.cs
 D:\Dropbox\corsoRabbitMQ\repo\src_esercizi\C#\01_HelloWorld\Send\obj\Debug\netcoreapp2.1\Send.dll
